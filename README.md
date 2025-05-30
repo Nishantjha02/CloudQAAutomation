@@ -17,7 +17,7 @@ This automation script:
 - Automatically fills the following 3 fields:
   - First Name
   - Last Name
-  - Email
+  - Number
 
 These fields are selected in a way that they remain accessible even if the page layout changes.
 
@@ -40,6 +40,8 @@ These fields are selected in a way that they remain accessible even if the page 
 - Place `chromedriver.exe` in a folder like `C:\WebDriver\bin`
 - Add that folder to **System Environment Variables > PATH**
 
+
+
 ### 3. Clone and Run This Project
 
 ```bash
@@ -47,3 +49,12 @@ git clone https://github.com/<your-username>/CloudQAAutomation.git
 cd CloudQAAutomation
 dotnet restore
 dotnet run
+
+```
+## Author
+* Name: Nishant Jha
+
+* GitHub: Nishantjha02
+
+* LinkedIn: https://www.linkedin.com/in/nishant-jha-b01a2824b/
+
